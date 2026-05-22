@@ -1,6 +1,6 @@
 # RAZIE
 
-RAZIE is a 2D game engine based on Pygame. In order to demonstrate its capabilities, a simple game is included in which the player must survive endless waves of enemies as much as possible.
+RAZIE (Răzvan's Indie Engine) is a 2D game engine based on Pygame. In order to demonstrate its capabilities, a simple game is included in which the player must survive endless waves of enemies as much as possible.
 
 ## Custom framework
 
